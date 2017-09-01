@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <software>
     <version_in>20170902</version_in>
-    <version_out>2.0.2</version_out>
+    <version_out>2.0.1</version_out>
     <getlivesource>http://laoguy.com/mklist-help.html</getlivesource>
     <help_online>http://laoguy.com/mklist-help.html</help_online>
     <updatelog>sss</updatelog>
     <download_web>http://laoguy.com/mklist-help.html</download_web>
-    <download_on>https://klead.github.io/mklist/src/img_donate.png</download_on>
+    <download_on>https://klead.github.io/mklist/csharp/bin/released/exeupdate.7z</download_on>
     <connection>1351397556@qq.com</connection>
 </software>
 
