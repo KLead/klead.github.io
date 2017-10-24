@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <software>
-    <version_in>20171022</version_in>
-    <version_out>2.0.8</version_out>
-    <getlivesource>http://laoguy.com/mklist-help.html</getlivesource>
+    <version_in>20171024</version_in>
+    <version_out>2.1.0</version_out>
+    <getlivesource> http://laoguy.com/mklist-helpcsh.html</getlivesource>
     <help_online>https://805061800.docs.qq.com/8ZR7K4EI7MK</help_online>
     <updatelog>sss</updatelog>
-    <download_web>http://laoguy.com/mklist-help.html</download_web>
+    <download_web> http://laoguy.com/mklist-helpcsh.html</download_web>
     <download_on>https://klead.github.io/mklist/csharp/bin/released/exeupdate.7z</download_on>
     <connection>1351397556@qq.com</connection>
 </software>
