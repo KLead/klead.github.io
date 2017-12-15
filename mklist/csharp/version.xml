@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <software>
-    <version_in>20171201</version_in>
-    <version_out>2.2.13</version_out>
+    <version_in>20171217</version_in>
+    <version_out>2.2.14</version_out>
     <getlivesource> http://laoguy.com/mklist-helpcsh.html</getlivesource>
     <help_online>https://805061800.docs.qq.com/8ZR7K4EI7MK</help_online>
     <updatelog>sss</updatelog>
