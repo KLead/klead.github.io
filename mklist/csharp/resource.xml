@@ -4,6 +4,83 @@
     <ad_url>http://www.baidu.com,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,http://oz35b7hcj.bkt.clouddn.com/aliplay_hongbao_a.png,R</ad_url>
     <ad_time>30000001,30000002,30000003,30000004,30000005,30000006,30000007,30000008,30000009,30000010,30000011,30000012,30000013,30000014,30000015,30000016,30000017,30000018</ad_time>
     <ad_filestype>url,url,url,url,url,url,url,url,url,url,url,url,url,url,url,url,picture,picture</ad_filestype>
+    
+    <ad_title01>百度一下</ad_title01>
+    <ad_title02>B</ad_title02>
+    <ad_title03>C</ad_title03>
+    <ad_title04>D</ad_title04>
+    <ad_title05>E</ad_title05>
+    <ad_title06>F</ad_title06>
+    <ad_title07>G</ad_title07>
+    <ad_title08>H</ad_title08>
+    <ad_title09>I</ad_title09>
+    <ad_title10>J</ad_title10>
+    <ad_title11>K</ad_title11>
+    <ad_title12>L</ad_title12>
+    <ad_title13>M</ad_title13>
+    <ad_title14>N</ad_title14>
+    <ad_title15>O</ad_title15>
+    <ad_title16>P</ad_title16>
+    <ad_title17>支付宝扫码领红包 - 支持作者</ad_title17>
+    <ad_title18>R</ad_title18>
+    
+    <ad_url01>http://www.baidu.com</ad_url01>
+    <ad_url02>B</ad_url02>
+    <ad_url03>C</ad_url03>
+    <ad_url04>D</ad_url04>
+    <ad_url05>E</ad_url05>
+    <ad_url06>F</ad_url06>
+    <ad_url07>G</ad_url07>
+    <ad_url08>H</ad_url08>
+    <ad_url09>I</ad_url09>
+    <ad_url10>J</ad_url10>
+    <ad_url11>K</ad_url11>
+    <ad_url12>L</ad_url12>
+    <ad_url13>M</ad_url13>
+    <ad_url14>N</ad_url14>
+    <ad_url15>O</ad_url15>
+    <ad_url16>P</ad_url16>
+    <ad_url17>http://oz35b7hcj.bkt.clouddn.com/aliplay_hongbao_a.png</ad_url17>
+    <ad_url18></ad_url18>
+    
+    <ad_time01>30000000</ad_time01>
+    <ad_time02>30000000</ad_time02>
+    <ad_time03>30000000</ad_time03>
+    <ad_time04>30000000</ad_time04>
+    <ad_time05>30000000</ad_time05>
+    <ad_time06>30000000</ad_time06>
+    <ad_time07>30000000</ad_time07>
+    <ad_time08>30000000</ad_time08>
+    <ad_time09>30000000</ad_time09>
+    <ad_time10>30000000</ad_time10>
+    <ad_time11>30000000</ad_time11>
+    <ad_time12>30000000</ad_time12>
+    <ad_time13>30000000</ad_time13>
+    <ad_time14>30000000</ad_time14>
+    <ad_time15>30000000</ad_time15>
+    <ad_time16>30000000</ad_time16>
+    <ad_time17>30000000</ad_time17>
+    <ad_time18>30000000</ad_time18>
+    
+    <ad_filetype01>url</ad_filetype01>
+    <ad_filetype02>url</ad_filetype02>
+    <ad_filetype03>url</ad_filetype03>
+    <ad_filetype04>url</ad_filetype04>
+    <ad_filetype05>url</ad_filetype05>
+    <ad_filetype06>url</ad_filetype06>
+    <ad_filetype07>url</ad_filetype07>
+    <ad_filetype08>url</ad_filetype08>
+    <ad_filetype09>url</ad_filetype09>
+    <ad_filetype10>url</ad_filetype10>
+    <ad_filetype11>url</ad_filetype11>
+    <ad_filetype12>url</ad_filetype12>
+    <ad_filetype13>url</ad_filetype13>
+    <ad_filetype14>url</ad_filetype14>
+    <ad_filetype15>url</ad_filetype15>
+    <ad_filetype16>url</ad_filetype16>
+    <ad_filetype17>picture</ad_filetype17>
+    <ad_filetype18>picture</ad_filetype18>
+    
 </resources>
 
 
