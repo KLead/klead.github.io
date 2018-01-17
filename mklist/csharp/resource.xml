@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <ad_title>AD,BD,CD,DD,ED,FD,GD,HD,ID,JD,KD,LD,MD,ND,OD,PD,QD,RD</ad_title>
-    <ad_url>http://www.baidu.com,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R</ad_url>
+    <ad_url>http://www.baidu.com,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,https://github.com/KLead/klead.github.io/blob/master/mklist/src/img_donate.png,R</ad_url>
     <ad_time>30000001,30000002,30000003,30000004,30000005,30000006,30000007,30000008,30000009,30000010,30000011,30000012,30000013,30000014,30000015,30000016,30000017,30000018</ad_time>
+    <ad_filestype>url,url,url,url,url,url,url,url,url,url,url,url,url,url,url,url,picture,picture</ad_filestype>
 </resources>
 
 
