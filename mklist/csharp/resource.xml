@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <ad_title>百度一下,BD,CD,DD,ED,FD,GD,HD,ID,JD,KD,LD,MD,ND,OD,PD,支付宝扫码领红包 - 支持作者,RD</ad_title>
-    <ad_url>http://www.baidu.com,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,http://oz35b7hcj.bkt.clouddn.com/aliplay_hongbao_a.png,R</ad_url>
-    <ad_time>30000001,30000002,30000003,30000004,30000005,30000006,30000007,30000008,30000009,30000010,30000011,30000012,30000013,30000014,30000015,30000016,30000017,30000018</ad_time>
-    <ad_filestype>url,url,url,url,url,url,url,url,url,url,url,url,url,url,url,url,picture,picture</ad_filestype>
-    
+
     <ad_title01>百度一下</ad_title01>
     <ad_title02>B</ad_title02>
     <ad_title03>C</ad_title03>
@@ -44,23 +40,23 @@
     <ad_url18></ad_url18>
     
     <ad_time01>30000000</ad_time01>
-    <ad_time02>30000000</ad_time02>
-    <ad_time03>30000000</ad_time03>
-    <ad_time04>30000000</ad_time04>
-    <ad_time05>30000000</ad_time05>
-    <ad_time06>30000000</ad_time06>
-    <ad_time07>30000000</ad_time07>
-    <ad_time08>30000000</ad_time08>
+    <ad_time02>10000000</ad_time02>
+    <ad_time03>10000000</ad_time03>
+    <ad_time04>10000000</ad_time04>
+    <ad_time05>10000000</ad_time05>
+    <ad_time06>10000000</ad_time06>
+    <ad_time07>10000000</ad_time07>
+    <ad_time08>10000000</ad_time08>
     <ad_time09>30000000</ad_time09>
-    <ad_time10>30000000</ad_time10>
-    <ad_time11>30000000</ad_time11>
-    <ad_time12>30000000</ad_time12>
-    <ad_time13>30000000</ad_time13>
-    <ad_time14>30000000</ad_time14>
-    <ad_time15>30000000</ad_time15>
-    <ad_time16>30000000</ad_time16>
-    <ad_time17>30000000</ad_time17>
-    <ad_time18>30000000</ad_time18>
+    <ad_time10>10000000</ad_time10>
+    <ad_time11>10000000</ad_time11>
+    <ad_time12>10000000</ad_time12>
+    <ad_time13>10000000</ad_time13>
+    <ad_time14>10000000</ad_time14>
+    <ad_time15>10000000</ad_time15>
+    <ad_time16>10000000</ad_time16>
+    <ad_time17>20180401</ad_time17>
+    <ad_time18>10000000</ad_time18>
     
     <ad_filetype01>url</ad_filetype01>
     <ad_filetype02>url</ad_filetype02>
