@@ -55,7 +55,7 @@
     <ad_time14>10000000</ad_time14>
     <ad_time15>10000000</ad_time15>
     <ad_time16>10000000</ad_time16>
-    <ad_time17>10180401</ad_time17>
+    <ad_time17>20180401</ad_time17>
     <ad_time18>10000000</ad_time18>
     
     <ad_filetype01>url</ad_filetype01>
@@ -76,6 +76,10 @@
     <ad_filetype16>url</ad_filetype16>
     <ad_filetype17>picture</ad_filetype17>
     <ad_filetype18>picture</ad_filetype18>
+    
+    <ad_group01>组01</ad_group01>
+    <ad_group02>组02</ad_group02>
+    <ad_group03>组03</ad_group03>
     
 </resources>
 
