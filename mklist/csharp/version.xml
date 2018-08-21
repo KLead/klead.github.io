@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <software>
-    <version_in>20180125</version_in>
-    <version_out>2.2.19</version_out>
-    <getlivesource>http://bbs.cnsat.net/thread-221599-1-1.html</getlivesource>
+    <version_in>20180708</version_in>
+    <version_out>2.3.10</version_out>
+    <getlivesource>https://guihet.com/</getlivesource>
     <help_online>https://805061800.docs.qq.com/8ZR7K4EI7MK</help_online>
     <update_range>except-xp</update_range>
-    <updatelog>sss</updatelog>
+    <updatelog>SSSA</updatelog>
     <download_web>https://pan.baidu.com/s/1c2csx00</download_web>
-    <download_on>https://klead.github.io/mklist/csharp/bin/released/exeupdate.7z</download_on>
+    <download_on>https://-1</download_on>
     <connection>1351397556@qq.com</connection>
     <ad_a>adtitle</ad_a>
     <ad_b>adurl</ad_b>
