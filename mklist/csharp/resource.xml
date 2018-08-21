@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
 
     <ad_title01>中文寻星论坛</ad_title01>
@@ -9,7 +9,7 @@
     <ad_title06>F</ad_title06>
     <ad_title07>G</ad_title07>
     <ad_title08>H</ad_title08>
-    <ad_title09>LTV-1.7.0(安卓)</ad_title09>
+    <ad_title09>SD</ad_title09>
     <ad_title10>J</ad_title10>
     <ad_title11>K</ad_title11>
     <ad_title12>L</ad_title12>
@@ -17,10 +17,10 @@
     <ad_title14>N</ad_title14>
     <ad_title15>O</ad_title15>
     <ad_title16>P</ad_title16>
-    <ad_title17>支付宝扫码领红包 - 支持作者</ad_title17>
+    <ad_title17>Q</ad_title17>
     <ad_title18>R</ad_title18>
     
-    <ad_url01>http://bbs.cnsat.net/forum-40-1.html</ad_url01>
+    <ad_url01>A</ad_url01>
     <ad_url02>B</ad_url02>
     <ad_url03>C</ad_url03>
     <ad_url04>D</ad_url04>
@@ -28,7 +28,7 @@
     <ad_url06>F</ad_url06>
     <ad_url07>G</ad_url07>
     <ad_url08>H</ad_url08>
-    <ad_url09>http://oz35b7hcj.bkt.clouddn.com/LTV_1.7.0.apk.7z</ad_url09>
+    <ad_url09>DS</ad_url09>
     <ad_url10>J</ad_url10>
     <ad_url11>K</ad_url11>
     <ad_url12>L</ad_url12>
@@ -36,8 +36,8 @@
     <ad_url14>N</ad_url14>
     <ad_url15>O</ad_url15>
     <ad_url16>P</ad_url16>
-    <ad_url17>http://oz35b7hcj.bkt.clouddn.com/aliplay_hongbao_a.png</ad_url17>
-    <ad_url18></ad_url18>
+    <ad_url17>CS</ad_url17>
+    <ad_url18>CD</ad_url18>
     
     <ad_time01>10000000</ad_time01>
     <ad_time02>10000000</ad_time02>
@@ -55,7 +55,7 @@
     <ad_time14>10000000</ad_time14>
     <ad_time15>10000000</ad_time15>
     <ad_time16>10000000</ad_time16>
-    <ad_time17>10180401</ad_time17>
+    <ad_time17>10000000</ad_time17>
     <ad_time18>10000000</ad_time18>
     
     <ad_filetype01>url</ad_filetype01>
